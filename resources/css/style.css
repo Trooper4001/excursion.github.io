@@ -1,0 +1,29 @@
+header {
+  background-color: black;
+  align-text: center;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+p {
+  color: aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+main h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+main p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
