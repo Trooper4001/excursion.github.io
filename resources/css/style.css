@@ -1,6 +1,9 @@
-header {
+html {
   background-color: black;
-  align-text: center;
+}
+
+header {
+  text-align: center;
 }
 
 h1 {
@@ -20,6 +23,7 @@ main h2 {
   font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
+  color: white;
 }
 
 main p {
